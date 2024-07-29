@@ -1,2 +1,1 @@
-# brainwave-EEG
-# brainwave-EEG
+Use milestone2 file, to run the app. 
