@@ -1,4 +1,4 @@
-# EEG Analysis with Muse Headband
+# Mindspace Muse Headband
 
 This project allows you to record and analyze EEG data using a Muse headband to measure changes in brain activity before and after listening to music. It calculates power in different frequency bands and provides a focus score based on the changes observed.
 
@@ -66,7 +66,7 @@ This project relies on several Python libraries. Here's a list of the required l
 2. **Run the script:**
 
    ```
-   python eeg_analysis.py
+   python mindspace.py
    ```
 
 3. **Follow the prompts:**
